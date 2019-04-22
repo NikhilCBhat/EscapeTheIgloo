@@ -1,0 +1,10 @@
+A	Me Talk Pretty One Day		David Sedaris
+B	Flour, Water, Salt, Yeast	Ken Forkish
+C	Good Omens			Terry Pratchett, Neil Gaiman
+D	The Art of War			Sun Tzu
+E	The Bible			Author Unknown
+F	1984				George Orwell
+G	American Gods			Neil Gaiman
+H	Nicknames of the Famous		Author Unknown
+I	The Tempest			William Shakespeare
+J	Enders Game			Orson Scott Card
